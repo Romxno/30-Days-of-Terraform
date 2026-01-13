@@ -216,7 +216,7 @@ I'm always interested in connecting with others passionate about infrastructure,
 
 ## License 📄
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for complete details.
+This project is licensed under the MIT License. See [https://opensource.org/licenses/MIT](LICENSE) for complete details.
 
 ---
 
