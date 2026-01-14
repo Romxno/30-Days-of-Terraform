@@ -2,7 +2,7 @@
 
 > From manual clicks to automated infrastructure—discover the power of code
 
-**Dive Deeper:** [Read the complete guide on Hashnode](#)
+**Full Story:** [Read the complete guide on Medium](https://medium.com/@shubhampauranik/day-01-terraform-the-foundation-of-modern-infrastructure-cf921051ff69)
 
 ---
 
