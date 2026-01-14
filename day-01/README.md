@@ -1,6 +1,6 @@
 # Day 1: Your Terraform Adventure Starts Here
 
-> From manual clicks to automated infrastructure—discover the power of code
+> From manual clicks to automated infrastructure ~ discover the power of code
 
 **Full Story:** [Explore on Medium](https://medium.com/@shubhampauranik/day-01-terraform-the-foundation-of-modern-infrastructure-cf921051ff69)
 
@@ -14,7 +14,7 @@ Welcome to Day 1 of **#30DaysOfTerraform**! This guide offers a beginner-friendl
 
 ## 🤔 What is Infrastructure as Code (IaC)?
 
-Infrastructure as Code lets you manage and provision infrastructure through code instead of manual processes. Think of it as creating a blueprint for your cloud resources—write it once, use it everywhere.
+Infrastructure as Code lets you manage and provision infrastructure through code instead of manual processes. Think of it as creating a blueprint for your cloud resources ~ write it once, use it everywhere.
 
 ### Why IaC Matters
 
@@ -40,13 +40,13 @@ Terraform takes IaC to the next level with a simple, powerful approach to infras
 - Safely destroy test environments to control costs
 - Maintain a single source of truth for your infrastructure
 
-Terraform becomes your infrastructure's blueprint, recipe, and maintenance log—all in one.
+Terraform becomes your infrastructure's blueprint, recipe, and maintenance log ~ all in one.
 
 ---
 
 ## 🔧 How Terraform Works
 
-Terraform uses configuration files (`.tf`) written in **HCL** (HashiCorp Configuration Language)—a human-readable syntax designed for defining infrastructure.
+Terraform uses configuration files (`.tf`) written in **HCL** (HashiCorp Configuration Language) ~ a human-readable syntax designed for defining infrastructure.
 
 ### Basic Workflow
 ```bash
@@ -100,7 +100,7 @@ terraform -version
 
 ## 🎯 What's Next?
 
-Day 1 covered the fundamentals—understanding IaC, discovering why Terraform matters, and getting your environment ready. In the coming days, we'll dive into writing actual Terraform configurations, managing state, and building real-world infrastructure.
+Day 1 covered the fundamentals ~ understanding IaC, discovering why Terraform matters, and getting your environment ready. In the coming days, we'll dive into writing actual Terraform configurations, managing state, and building real-world infrastructure.
 
 ---
 
