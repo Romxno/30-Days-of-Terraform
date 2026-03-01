@@ -113,7 +113,7 @@ terraform plan
 ---
 
 ## 🎯 What's Next?
-Day 2 covered the interpreter layer of Terraform ~ understanding providers, why version locking matters, and writing your first working configuration with an EC2 instance. In **Day 3**, we'll explore **Terraform State** ~ what it is, why it matters, and how it keeps track of everything you've built.
+Day 2 covered the interpreter layer of Terraform ~ understanding providers, why version locking matters, and writing your first working configuration with an EC2 instance. In **Day 3**, we'll get hands-on and **create a real AWS S3 bucket using Terraform** ~ from writing the resource block to actually provisioning it in your AWS account.
 
 ---
 
