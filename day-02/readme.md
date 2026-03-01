@@ -10,7 +10,7 @@ Welcome to Day 2 of #30DaysOfTerraform! Yesterday, we set the stage by understan
 🔌 What is a Terraform Provider?
 A Terraform Provider is the bridge between your Terraform code and the cloud platform you're building on. Terraform is excellent at describing infrastructure, but it can't talk to AWS, Azure, or GCP on its own.
 
-Think of it like this:
+Think of it like this:`
 
 * Terraform = The architect
 * Provider = The interpreter
