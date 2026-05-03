@@ -1,7 +1,7 @@
 # Day 3: Creating Your First S3 Bucket
 From writing a resource block to provisioning real infrastructure ~ your first full Terraform cycle
 
-> Full Story: __[Read on Medium](#)__
+> Full Story: __[Read on Medium](https://medium.com/p/bfbd07f64936/edit)__
 
 ---
 
